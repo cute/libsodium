@@ -8,7 +8,7 @@ Public domain.
 #include <stdlib.h>
 
 #include "crypto_core_salsa208.h"
-#include "private/common.h"
+#include "private_common.h"
 
 #define ROUNDS 8
 #define U32C(v) (v##U)

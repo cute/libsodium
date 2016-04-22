@@ -28,7 +28,7 @@
 
 #include "crypto_hash_sha512.h"
 #include "utils.h"
-#include "private/common.h"
+#include "private_common.h"
 
 #include <sys/types.h>
 

@@ -1,5 +1,5 @@
 #include "crypto_shorthash_siphash24.h"
-#include "private/common.h"
+#include "private_common.h"
 
 typedef uint64_t u64;
 typedef uint32_t u32;

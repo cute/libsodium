@@ -7,7 +7,7 @@
 #include "crypto_sign_ed25519.h"
 #include "crypto_verify_32.h"
 #include "utils.h"
-#include "private/curve25519_ref10.h"
+#include "private_curve25519_ref10.h"
 
 #ifndef ED25519_COMPAT
 static int

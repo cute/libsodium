@@ -1,5 +1,5 @@
-#ifndef CURVE25519_REF10_H
-#define CURVE25519_REF10_H
+#ifndef PRIVATE_CURVE25519_REF10_H
+#define PRIVATE_CURVE25519_REF10_H
 
 #include <stddef.h>
 #include <stdint.h>

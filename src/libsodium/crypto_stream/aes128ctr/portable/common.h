@@ -5,7 +5,7 @@
 #define COMMON_H
 
 #include "types.h"
-#include "private/common.h"
+#include "private_common.h"
 
 /* Macros required only for key expansion */
 

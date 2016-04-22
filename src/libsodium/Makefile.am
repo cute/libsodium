@@ -100,8 +100,8 @@ libsodium_la_SOURCES = \
 	crypto_verify/32/ref/verify_32.c \
 	crypto_verify/64/verify_64_api.c \
 	crypto_verify/64/ref/verify_64.c \
-	include/sodium/private/common.h \
-	include/sodium/private/curve25519_ref10.h \
+	include/sodium/private_common.h \
+	include/sodium/private_curve25519_ref10.h \
 	randombytes/randombytes.c \
 	sodium/core.c \
 	sodium/runtime.c \

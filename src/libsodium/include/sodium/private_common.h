@@ -1,5 +1,5 @@
-#ifndef common_H
-#define common_H 1
+#ifndef private_common_H
+#define private_common_H 1
 
 #include <stdint.h>
 #include <stdlib.h>

@@ -5,7 +5,7 @@
 
 #include "crypto_generichash_blake2b.h"
 #include "utils.h"
-#include "private/common.h"
+#include "private_common.h"
 
 #include "argon2-impl.h"
 #include "blake2b-long.h"
